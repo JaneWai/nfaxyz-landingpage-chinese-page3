@@ -45,7 +45,7 @@ function App() {
           <div className="mb-6">
             <div className="inline-flex items-center space-x-2 text-orange-500 text-sm mb-4">
               <div className="w-2 h-2 bg-orange-500 rounded-full"></div>
-              <span>不仅仅是代币，更是一个角色</span>
+              <span>不仅仅是代币，更是个性化智能体</span>
             </div>
             
             <h1 className="text-6xl font-bold leading-tight mb-6">
@@ -101,7 +101,7 @@ function App() {
         {/* Join Waitlist Button */}
         <div className="flex justify-center pb-12">
           <button className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-12 rounded-full text-lg transition-colors shadow-lg">
-            加入等待名单
+            加入等候名单
           </button>
         </div>
 
