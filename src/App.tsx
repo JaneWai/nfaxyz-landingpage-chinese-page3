@@ -109,7 +109,7 @@ function App() {
         <div className="flex justify-center pb-6">
           <div className="flex flex-col items-center text-gray-400 text-sm">
             <ChevronDown size={20} className="animate-bounce" />
-            <span>滚动查看更多</span>
+            <span>向下滚动查看更多</span>
             <ChevronDown size={20} className="animate-bounce" />
           </div>
         </div>
