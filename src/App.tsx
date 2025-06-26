@@ -51,7 +51,10 @@ function App() {
             <h1 className="text-6xl font-bold leading-tight mb-6">
               <span className="text-orange-500">不是</span><br />
               <span className="text-white">F*CKING</span><br />
-              <span className="text-orange-500">胡闹</span>
+              <span className="text-orange-500 mb-4 block">胡闹</span>
+              <span className="text-orange-500 text-4xl block mb-2">NOT</span>
+              <span className="text-white text-4xl block mb-2">F*CKING</span>
+              <span className="text-orange-500 text-4xl block">AROUND</span>
             </h1>
             
             <p className="text-gray-400 text-lg mb-8">
@@ -83,7 +86,7 @@ function App() {
           <div className="bg-gray-900 bg-opacity-50 backdrop-blur-sm border border-gray-700 rounded-lg p-6">
             <div className="flex items-center space-x-2 text-gray-300 text-sm mb-4">
               <div className="w-2 h-2 bg-gray-400 rounded-full"></div>
-              <span>代币标准，不仅仅是代币炒作 - 全栈构建</span>
+              <span>代币标准，不是代币炒作 - 全栈构建</span>
             </div>
           </div>
         </div>
